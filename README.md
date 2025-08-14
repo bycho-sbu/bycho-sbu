@@ -1,4 +1,4 @@
-<h1>Hi, I'm Byunghho Cho! <br/><a href="https://github.com/YOUR_GITHUB_USERNAME">Programmer</a>, Cybersecurity Enthusiast</a>, 
+<h1>Hi, I'm Byunghho Cho! <br/><a href="https://github.com/YOUR_GITHUB_USERNAME">Programmer</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
