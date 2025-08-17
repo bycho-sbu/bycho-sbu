@@ -1,4 +1,4 @@
-# Hi, I'm Byungho Cho! 👋  
+# Hi, I'm Byungho Cho! 
 **Programmer | Problem Solver | Tech Enthusiast**
 
 I am passionate about software development and computational problem solving.  
@@ -7,7 +7,7 @@ This repository documents my journey of learning, building, and experimenting wi
 
 ---
 
-## 🚀 Development Projects
+##  Development Projects
 
 - **Computational Finance**  
   [Practicing various financial models using Python](https://github.com/bycho-sbu/computational_finance)
@@ -26,12 +26,12 @@ This repository documents my journey of learning, building, and experimenting wi
 
 ---
 
-## ⚡ About Me
-- 🎓 Computer Science graduate with interests in **finance, AI, and systems programming**.  
-- 💻 Experienced in **Python, JavaScript/React, NodeJS, and C/C++**.  
-- 🔍 Enjoys tackling algorithmic challenges and exploring new technologies.  
-- 🌱 Always learning and experimenting with projects that combine **theory and practice**.  
+##  About Me
+-  Computer Science graduate with interests in **finance, AI, and systems programming**.  
+-  Experienced in **Python, JavaScript/React, NodeJS, and C/C++**.  
+-  Enjoys tackling algorithmic challenges and exploring new technologies.  
+-  Always learning and experimenting with projects that combine **theory and practice**.  
 
 ---
 
-✍️ *Byungho Cho*  
+ *Byungho Cho*  
