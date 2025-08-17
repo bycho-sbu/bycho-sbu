@@ -1,4 +1,4 @@
-<h1>Hi, I'm Byunghho Cho! <br/><a href="https://github.com/YOUR_GITHUB_USERNAME">Programmer</a> 
+<h1>Hi, I'm Byunghho Cho! <br/><a>Programmer</a> 
 <h2>Development Projects:</h2>
 
 - <b>Computational Finance</b>
