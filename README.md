@@ -4,7 +4,7 @@
 - <b>Computational Finance</b>
   - [Practicing various financial models using Python](https://github.com/bycho-sbu/computational_finance)
 - <b>Full Stack Web App (React, NodeJS, MongoDB, OpenAI API)</b>
-  - [AI resume application]([https://github.com/YOUR_GITHUB_USERNAME/Image-Analysis-Middleware](https://github.com/bycho-sbu/cse416_web_application))
+  - [AI resume application](https://github.com/bycho-sbu/cse416_web_application)
 - <b>Compiler Design</b>
   - [From lexical analyzer to Parser, step by step building of the compiler](https://github.com/bycho-sbu/Compiler_Design)
 - <b>Algorithm Analysis</b>
