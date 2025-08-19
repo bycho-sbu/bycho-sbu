@@ -1,9 +1,9 @@
 # Hi, I'm Byungho Cho! 
 **Programmer | Problem Solver | Tech Enthusiast**
 
-I am passionate about software development and computational problem solving.  
+I am passionate about software development and computational problem-solving.  
 My work spans from financial modeling and algorithm analysis to full-stack web applications and systems programming.  
-This repository documents my journey of learning, building, and experimenting with different technologies.
+This repository encompasses my journey of learning, building, and experimenting with different technologies.
 
 ---
 
