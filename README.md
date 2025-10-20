@@ -27,7 +27,7 @@ This repository encompasses my journey of learning, building, and experimenting 
 ---
 
 ##  About Me
--  Computer Science graduate with interests in **finance, AI, and systems programming**.  
+-  Computer Science graduate(Stony Brook University) with interests in **finance, AI, and software programming**.  
 -  Experienced in **Python, JavaScript/React, NodeJS, and C/C++**.  
 -  Enjoys tackling algorithmic challenges and exploring new technologies.  
 -  Always learning and experimenting with projects that combine **theory and practice**.  
