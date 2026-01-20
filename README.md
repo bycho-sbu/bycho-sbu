@@ -15,6 +15,9 @@ This repository encompasses my journey of learning, building, and experimenting 
 - **Full Stack Web App (React, NodeJS, MongoDB, OpenAI API)**  
   [AI Resume Application](https://github.com/bycho-sbu/cse416_web_application)
 
+  - **Computer Vision**  
+  [Using deep learning(CNN,ViT) to interpret and understand visial information from the dataset](https://github.com/bycho-sbu/cse327_Image_Classification_using_ViTs_and_CNNs)
+
 - **Compiler Design**  
   [From lexical analyzer to parser, step-by-step building of a compiler](https://github.com/bycho-sbu/Compiler_Design)
 
